@@ -5,7 +5,7 @@ module.exports = {
    * You can add file key name to this array.
    */
   injectToHead: new Set([]),
-  buildingPath: '../tsc-web/',
+  buildingPath: '../project-web/',
   dev: {
     assetsPublicPath: '/'
   },
